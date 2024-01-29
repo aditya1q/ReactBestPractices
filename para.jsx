@@ -1,1 +1,0 @@
-import para from 'para'
