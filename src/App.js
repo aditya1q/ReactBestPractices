@@ -790,13 +790,13 @@ import './index.css'
 // export default App;
 
 
-import LanguageSelector from "./Section/Section2";
+import MarginLineChart from "./SecondCheck";
 
 const App = () => {
   return (
-    <>
-      <LanguageSelector />
-    </>
+    <div style={{backgroundColor:'black'}}>
+      <MarginLineChart />
+    </div>
   )
 }
 export default App;
